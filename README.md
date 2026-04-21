@@ -65,8 +65,7 @@ The dataset contains customer information such as:
 ```
 DEEWALI_SALES_ANALYSIS/
 │
-├── data/
-│   └── Diwali Sales Data.csv
+├── Diwali Sales Data.csv
 ├── Diwali_Sales_EDA.ipynb
 ├── README.md
 ├── requirements.txt
