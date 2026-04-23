@@ -66,10 +66,10 @@ PROJECTS/
 │
 ├── Diwali_Sales_EDA.ipynb
 ├── Netflix_Movie_Analysis.ipynb
-├── numpy.ipynb
-├── pandas.ipynb
-├── matplotlib.ipynb
-├── seaborn.ipynb
+├── Numpy.ipynb
+├── Pandas.ipynb
+├── Matplotlib.ipynb
+├── Seaborn.ipynb
 ├── README.md
 ├── requirements.txt
 └── data/
