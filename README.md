@@ -1,8 +1,53 @@
-# 🪔 Diwali Sales Analysis
+# 📊 Data Analysis Learning Projects (NumPy, Pandas, Matplotlib, Seaborn)
 
-## 📊 Project Overview
+## 🎯 Overview
 
-This project performs Exploratory Data Analysis (EDA) on Diwali sales data to understand customer purchasing behavior and identify key business insights.
+This repository contains multiple **hands-on data analysis projects** created to learn and apply:
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+
+The focus is on **Exploratory Data Analysis (EDA), data cleaning, and visualization** using real-world datasets.
+
+---
+
+## 📂 Projects Included
+
+### 🪔 1. Diwali Sales Analysis
+
+* Analyzed customer purchasing behavior during Diwali
+* Identified top-performing demographics and regions
+* Created multiple visualizations to extract insights
+
+**Key Insights:**
+
+* Female customers contribute more to sales
+* Age group 26–35 spends the most
+* Certain states dominate order volume
+
+---
+
+### 🎬 2. Netflix Movie Analysis
+
+* Explored Netflix dataset to understand content trends
+* Analyzed genres, ratings, popularity, and release trends
+
+**Analysis Performed:**
+
+* Data cleaning and preprocessing
+* Genre distribution analysis
+* Rating and popularity insights
+* Year-wise content trends
+
+**Key Insights:**
+
+* Certain genres dominate the platform
+* Ratings vary significantly across categories
+* Content production increased over time
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -12,65 +57,66 @@ This project performs Exploratory Data Analysis (EDA) on Diwali sales data to un
 * Matplotlib
 * Seaborn
 
-## 📂 Dataset
+---
 
-The dataset contains customer information such as:
+## 📁 Project Structure
 
-* Gender
-* Age Group
-* State
-* Product Category
-* Orders
-* Amount
+```id="l9z6pc"
+PROJECTS/
+│
+├── Diwali_Sales_EDA.ipynb
+├── Netflix_Movie_Analysis.ipynb
+├── numpy.ipynb
+├── pandas.ipynb
+├── matplotlib.ipynb
+├── seaborn.ipynb
+├── README.md
+├── requirements.txt
+└── data/
+```
 
-## 🔍 Analysis Performed
+---
 
-* Data cleaning (handling missing values and dropping unnecessary columns)
-* Grouping data using `groupby()`
-* Aggregating sales and orders
-* Sorting and filtering top-performing segments
+## 📈 Skills Gained
 
-## 📈 Visualizations
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Understanding
+* Handling Real-world Messy Data
 
-* Count plot of Marital Status
-* Gender-wise analysis
-* Age group vs sales
-* Top 10 states by orders
-* Product category analysis
-
-## 💡 Key Insights
-
-* Female customers contribute more to total sales than males
-* Age group 26–35 has the highest purchasing power
-* Top states generate the majority of orders
-* Certain product categories dominate overall sales
+---
 
 ## 🚀 How to Run
 
 1. Clone the repository
+
 2. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
-3. Open the notebook:
+
+3. Open Jupyter Notebook:
 
    ```bash
    jupyter notebook
    ```
-4. Run all cells
 
-## 📌 Project Structure
+4. Run the notebooks
 
-```
-DEEWALI_SALES_ANALYSIS/
-│
-├── Diwali Sales Data.csv
-├── Diwali_Sales_EDA.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+---
+
+## 📚 Learning Outcome
+
+This project helped me:
+
+* Build a strong foundation in data analysis
+* Understand how to work with real datasets
+* Improve visualization and storytelling skills
+* Gain confidence in Python-based analytics
+
+---
 
 ## 👩‍💻 Author
 
